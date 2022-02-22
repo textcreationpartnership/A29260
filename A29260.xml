@@ -1,0 +1,334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A memorial representing the present state of religion, on the continent of North-America by Thomas Bray.</title>
+            <author>Bray, Thomas, 1658-1730.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29260</idno>
+            <idno type="STC">Wing B4294</idno>
+            <idno type="STC">ESTC R211</idno>
+            <idno type="EEBO-CITATION">12877337</idno>
+            <idno type="OCLC">ocm 12877337</idno>
+            <idno type="VID">94880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94880)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 731:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A memorial representing the present state of religion, on the continent of North-America by Thomas Bray.</title>
+                  <author>Bray, Thomas, 1658-1730.</author>
+               </titleStmt>
+               <extent>[6], 5-12 [i.e. 15] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Downing for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errors in paging.</note>
+                  <note>Caption title: A memorial humbly laid before the right reverend the lord bishops of this kingdom, and other right noble, and worthy patrons of religion, representing the present state thereof, in the several provinces on the continent of North America, in order to the providing a sufficient number of proper missionaries, so absolutely necessary to be sent at this juncture into those parts.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  United States.</term>
+               <term>Missions --  North America.</term>
+               <term>North America --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94880:1"/>
+            <pb facs="tcp:94880:1"/>
+            <p>A MEMORIAL, REPRESENTING THE PRESENT STATE OF RELIGION, ON THE CONTINENT OF North-America.</p>
+            <p>By THOMAS BRAY, D. D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Downing,</hi> for the Author, 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:94880:2"/>
+            <pb facs="tcp:94880:2"/>
+            <p>To his GRACE THOMAS Lord Arch-Biſhop OF CANTERBURY, Primate and Metropolitan OF ALL ENGLAND, The following MEMORIAL Is with all Submiſſion Humbly Dedicated by</p>
+            <closer>
+               <signed>Thomas Bray.</signed>
+            </closer>
+         </div>
+         <div type="cover_letter">
+            <pb facs="tcp:94880:3"/>
+            <pb facs="tcp:94880:3"/>
+            <p>
+               <hi>THE Society have given me leave, for diſpatch ſake, to Print what I am commanded to ſay in common to their Correſpondents, in regard the Number of them is increas'd, and that ſending the Yearly Packet would be otherwiſe long delay'd.</hi> The Particulars I am to acquaint you with, are as follow.</p>
+            <p>The Society think it may be of uſe, to prevent the Concealment or Miſapplication of Moneys, or Land given to Charitable Uſes, to have ſuch Charities Regiſtred in ſome Publick Place; and therefore reommend it to you to procure an Entry of the Notices of ſuch Gifts, upon Tables to be hung up in the Pariſhes to which ſuch Charities belong, or otherwiſe, as you think may beſt preſerve the Memory of them.</p>
+            <p>The Society having heretofore promiſcuouſly uſed the Words
+<hi>Propagating,</hi> and <hi>Promoting,</hi> in their Title, and conſidering that the Coincidence of the former with the Title of the <hi>Society for Propagating the Goſpel in Foreign Parts,</hi> has occaſioned Miſtakes; They have agreed, for the future, to call themſelves only by the Name of the
+<hi>Society for Promoting Chriſtian Knowledge.</hi>
+            </p>
+            <p>And becauſe ſome Gentlemen have deſired to know how a Legacy, for furthering the Deſigns of the Society, may be worded, ſo as to pre<g ref="char:EOLhyphen"/>vent any doubt about Payment of it, I am order'd to communicate to you the following Clauſe, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="will_and_testament">
+                        <p>
+                           <hi>ITEM. I</hi> A. B. <hi>do hereby give and bequeath unto</hi> C. D. <hi>of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> the Sum of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> upon Truſt, and to the Intent that he do pay the ſame to the Treaſurer for the time being of a Volun<g ref="char:EOLhyphen"/>tary Society, commonly called, or known by the Name of,</hi> The Society for Pro<g ref="char:EOLhyphen"/>moting Chriſtian Knowledge, <hi>which firſt met about the beginning of the Year</hi> 1699. <hi>and now do, or lately did, hold their Weekly Meeting on</hi> Thurſday <hi>in</hi> Bartlet<hi>'s</hi> Buildings, <hi>in the Pariſh of St.</hi> Andrew <hi>in</hi> Holborn, Lon<g ref="char:EOLhyphen"/>don;
+<hi>which ſaid Sum of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> I deſire may be apply'd towards carrying on the Charitable Deſigns of the ſaid Society.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The Society having been inform'd of ſome Methods uſed in
+<hi>Bedfordſhire</hi> and <hi>Pembrokeſhire,</hi> for circulating Books among the <pb facs="tcp:94880:4"/>Clergy; I am directed to acquaint you therewith, in hopes they may be of Uſe, where Publick Libraries are not yet erected: One Method is, by communicating reciprocally Catalogues of each others Libraries, in order to lend what one may be pro<g ref="char:EOLhyphen"/>vided with different from the other: And the other Method is, to facilitate the procuring of New Books by a ſmall Annual Subſcri<g ref="char:EOLhyphen"/>ption, which being laid out therein by common conſent, the Books, after they have been peruſed alternately, are divided, and ſhared by Lot among the Subſcribers.</p>
+            <p>And whereas a worthy Correſpondent has found by Experience, that his providing a little Library of Books for each of his Chil<g ref="char:EOLhyphen"/>dren, hath much tended to excite a Deſire in them after the Know<g ref="char:EOLhyphen"/>ledge of Religion. The Society take the Liberty of communi<g ref="char:EOLhyphen"/>cating it to you, that you may recommend the ſame thing where you think proper, out of a Senſe they have, that nothing is more to be regarded in the Education of Children, than creating in them a Thirſt after Knowledge and Virtue; by which means they will have alſo a larger Field for the Exerciſe of Induſtry, which is a thing of vaſt Importance to be encourag'd, being, as may be ſaid, the Parent of all conſiderable Attainments.</p>
+            <p>The Society being inform'd, That <hi>printed Copy-Books</hi> for the uſe of <hi>Charity-Schools</hi> were much wanted in the Country, have order'd a Spe<g ref="char:EOLhyphen"/>cimen of ſuch a <hi>Copy-Book</hi> as has been recommended to them to be ſent to you. <hi>Printed and Sold by Joſeph Downing in Bartholomew-Cloſe, London,</hi> at the Rate of Six Shillings per Doz.</p>
+            <p>That the Account of Schools may be more perfect the next Year than it is This, and be publiſh'd ſooner, you are deſired to ſignifie by
+<hi>Eaſter-Day</hi> at furtheſt, the State of the Schools in your Neighbour<g ref="char:EOLhyphen"/>hood; Particularly, when ſuch Schools were ſet up; What Number of Children are taught and cloathed of each Sex, and by what Sub<g ref="char:EOLhyphen"/>ſcriptions, Collections or Endowments maintain'd; How many Children put out Apprentices, to Services, or to Sea, from the Be<g ref="char:EOLhyphen"/>ginning of each School; And where there are School-houſes, at whoſe Expence built; And what other Particulars fall under your Notice in Relation to Schools, or the Account of them now publiſh'd.</p>
+            <p>If you have not already receiv'd, you may expect in a ſhort time, a Packet of ſmall Books from the Society, Carriage paid: I ſhall be glad to hear when it comes to your Hands.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="5" facs="tcp:94880:4"/>
+            <head>
+               <hi>A MEMORIAL HUMBLY laid before</hi> The Right Reverend the Lord Biſhops of this King<g ref="char:EOLhyphen"/>dom, and other Right Noble, and Worthy Pa<g ref="char:EOLhyphen"/>trons of
+<hi>Religion;</hi> repreſenting the Preſent State thereof, in the ſeveral Provinces on the Continent of <hi>North-America,</hi> in order to the Providing a ſufficient Number of proper Miſſionaries, ſo abſolutely neceſſary to be ſent at this Juncture into thoſe Parts.</head>
+            <opener>
+               <salute>
+                  <hi>May it pleaſe Your Lordſhips,</hi> &amp;c.</salute>
+            </opener>
+            <p>AMongſt other Reaſons for my Return at this time, of Con<g ref="char:EOLhyphen"/>ſequence to our Church in <hi>America;</hi> in reference to which I have been happy in the Approbation of thoſe my Eccleſiaſti<g ref="char:EOLhyphen"/>cal Superiors, to whom I am more immediately accounta<g ref="char:EOLhyphen"/>ble in Things relating to my Miſſion, there is one of Concernment to be laid before all Your Lordſhips, the Univerſities alſo of this King<g ref="char:EOLhyphen"/>dom; And I dare promiſe my ſelf, will not be thought unworthy the Notice of all the Lovers of Chriſt, and his Religion. And it is to re<g ref="char:EOLhyphen"/>preſent to You, the preſent State of Religion in
+<hi>MARY-LAND, PENSYLVANIA,</hi> the <hi>EAST</hi> and <hi>WEST-JERSEYS, NEW-YORK, ROAD-ISLAND, LONG-ISLAND, NORTH</hi> and <hi>SO<g ref="char:V">Ʋ</g>TH-CAROLINA, BERM<g ref="char:V">Ʋ</g>DAS,</hi> and <hi>NEWFO<g ref="char:V">Ʋ</g>ND-LAND.</hi> And this in order to the Propa<g ref="char:EOLhyphen"/>gation of the true Chriſtian Religion in thoſe Parts, at a Criſis, when, as many Thouſands are in a happy Diſpoſition to embrace it, ſo Infi<g ref="char:EOLhyphen"/>delity and Hereſie ſeem to make their utmoſt Efforts to withdraw, and to fix thoſe People at the greatest diſtance from it.</p>
+            <p n="1">I. And to begin where I am more immediately concerned, with
+<hi>MARY-LAND.</hi> Here, through the Mercies of God, and after many Struggles with the <hi>Quakers,</hi> 'tis to be hop'd, we are in a fair way
+<pb n="6" facs="tcp:94880:5"/>at laſt to have an <hi>Eſtabliſh'd Church:</hi> The Law for which I have brought over with me for the Royal Aſſent. And thereby is provided a Maintenance for the Clergy of 40 <abbr>
+                  <hi>l.</hi>
+               </abbr> of Tobacco
+<hi>per</hi> Pole, tax'd upon each communicable Perſon; which amounts in ſome Pariſhes to about 80 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum,</hi> according to the Rate which Tobacco has born theſe three laſt Years; tho' that is higher than they can promiſe themſelves the ſame for the future: But in 12 of them at leaſt, by reaſon of the thinneſs of the Inhabitants, not to above a third of that Value. And yet theſe latter Pariſhes having built their Churches, think they ought to hive Miniſters, as well as the reſt: And had I not, in my <hi>PARO<g ref="char:EOLhyphen"/>CHIAL VISITATION,</hi> given them good Words, and fair Pro<g ref="char:EOLhyphen"/>miſes, ſpeedily to ſupply them, I fear our Law would not have paſſed altogether ſo eaſily as it did. And yet how to make good that Promiſe to them, I ſhall be ſadly at a loſs, except the Propoſals hereafter given may find Favour with Your Lordſhips, and thoſe to whom you ſhall pleaſe to recommend them.</p>
+            <p>The <hi>Papiſts</hi> in this Province appear to me to be not above a twelfth Part of the Inhabitants; but their <hi>Prieſts</hi> are very numerous; whereof more have been ſent in this laſt Year, than was ever known. And tho' the <hi>Quakers</hi> brag ſo much of their Numbers and Riches, with which Conſiderations they would incline the Government to favour them with ſuch unpreſidented Privileges, as to be free from paying their Dues to the <hi>Eſtabliſhed Church,</hi> or rather, would fain overthrow its Eſtabliſh<g ref="char:EOLhyphen"/>ment; yet they are not above a 10th Part in number, and bear not that proportion, they would be thought to do, with thoſe of the Church, in Wealth and Trade.</p>
+            <p n="2">II. As for <hi>PENSYLVANIA,</hi> I found too much Work in
+<hi>Mary-Land,</hi> to be able to viſit Perſonally that Province, tho' moſt earneſtly ſolicited thereunto by the People. But there paſs'd Letters betwixt my ſelf, and that Church, full of the greateſt Reſpects on their ſides: And by ſuch Notices as I have receiv'd from ſome of the Principal Perſons of that Country, I am fully made to underſtand the State of Religion there; where, I think, if in any part of the Chriſtian World, a very good pro<g ref="char:EOLhyphen"/>portion of the People are excellently diſpos'd to receive the Truth.</p>
+            <p>The <hi>Keithites,</hi> which are computed to be a Third Part, are truly ſuch; and ſo very well affected are they to the Intereſt of our Church, that, in the late Election of Aſſembly-Men, even ſince Mr.
+<hi>Penn</hi> came into his Government, they had almoſt carried it for the Church-Men, to their great Surprize; ſo as to let them ſee, they had been only want<g ref="char:EOLhyphen"/>ing to themſelves in not timely applying.</p>
+            <p>There are in <hi>Penſylvania</hi> two Congregations of
+<hi>Lutherans,</hi> being <hi>Swedes,</hi> whoſe Churches are finely built, and their two Miniſters lately ſent in, nobly furniſhed with 300
+<abbr>
+                  <hi>l.</hi>
+               </abbr> worth of Books by the <hi>Swediſh</hi> King: And they live in very good Accord with our Miniſter, and his Church.</p>
+            <p>There is but one Church of <hi>England</hi> Miniſter as yet there, and he at <hi>Philadelphia,</hi> well eſteemed and reſpected by his People: And they do moſt importunately ſolicit both from thence, and from other Parts of that Province, for more, where, I am aſſured, there are at leaſt ſix wanting.</p>
+            <pb n="7" facs="tcp:94880:5"/>
+            <p>There are ſome <hi>Independents,</hi> but neither many, nor much bigotted.</p>
+            <p n="3">III. Adjoining to this, are the two Colonies of
+<hi>EAST</hi> and <hi>WEST-JERSEYS,</hi> where they have ſome pretty Towns, and well-peopled; but are wholly left to themſelves, without Prieſt, or Altar. The <hi>Quakers</hi> are very numerous in the <hi>Jerſeys.</hi> But the <hi>Keithians,</hi> who are many there, are alike affected to us, as in
+<hi>Penſylvania.</hi> And I think there would be a Reception for ſix Miniſters in both the <hi>Jerſeys.</hi>
+            </p>
+            <p n="4">IV. From <hi>NEW-YORK,</hi> I have an Account, that a Church of <hi>England</hi> Clergy are much wanted there: And there will be room for at leaſt two Miniſters, beſides one which they have already; the one to aſſiſt at New-York, th' other to be plac'd at <hi>Albany;</hi> where, beſides the Inhabitants of the Town, which are many, we have two Companies of Soldiers in Garriſon, but all without a Preacher.</p>
+            <p>I ſhall not here ſpeak of the Number of
+<hi>Miſſionaries</hi> requiſite to be ſent to convert the Native
+<hi>Indians,</hi> lying on the back of this, and all our other Colonies on the Continent. Now that the <hi>French</hi> of <hi>Canada</hi> do, by their Prieſts, draw over ſo many of theſe <hi>Indians,</hi> both to their Religion, and their Intereſts, in the Opinion of many wiſe Perſons, who underſtand the active and inveterate Spirit of <hi>Popery,</hi> the Nature of the <hi>Indians,</hi> and the Scituation of thoſe Parts, the Civil Government has very great Reaſon to take Umbrage, ſo as to think if of the higheſt conſequence to the Preſervation of our Plantations, to have thoſe
+<hi>Indians,</hi> which border upon us, brought over to our Religion, in order to hold them in a ſtricter Alliance with us. This, I hope, may facilitate another <hi>Memorial</hi> relating to that particular Caſe, ſo as to obtain from the Publick ſuch a Fund, as may maintain at leaſt Twenty ſuch Perſons, as will learn their Language, live with them, and preach the Goſpel amongſt them. But the Reaſons for making Proviſion for the Support of Religion within the Colonies, being not, as commonly apprehended, of ſo National a Concern; it is from particular Perſons, and ſuch only as are more than ordinarily zealous for the Honour of God, and the Good of Souls, that we can with much Aſſurance promiſe our ſelves a neceſſary Aſſiſtance towards Promoting in theſe ſo good a Work. And therefore ſhall addreſs, in relation to them, in another way of Propoſal. To proceed then.</p>
+            <p n="5">V. In <hi>LONG-ISLAND</hi> there are Nine Churches, but no Church of <hi>England</hi> Miniſter, tho' much deſired; and there ought to be at leaſt Two ſent to that Colony.</p>
+            <p n="6">VI. In <hi>ROAD-ISLAND,</hi> for want of a Clergy, many of the Inhabitants are ſaid to be ſunk downright into Atheiſm. The New Generation, being the Off-ſpring of <hi>Quakers,</hi> whoſe Children, for want of an Outward Teaching, which thoſe Enthuſiaſts at firſt denied, being meer <hi>Ranters;</hi> as indeed the Sons of <hi>Quakers</hi> are found to be ſuch in moſt Places, and equally to deny all Religion. However, through the Noble Aſſiſtance of Colonel <hi>Nicholſon,</hi> Governour of <hi>Virginia,</hi> there is a Church rais'd in that Colony, and ſomething ſubſcribed towards a Maintenance of one Miniſter. But there will be Work enough for Two ſubſtantial Divines at leaſt.</p>
+            <pb n="8" facs="tcp:94880:6"/>
+            <p n="7">VII. <hi>NORTH-CAROLINA</hi> lies betwixt <hi>Virginia</hi> and <hi>South-Carolina:</hi> It has two Settlements; th' one call'd
+<hi>Roanoak,</hi> the other <hi>Pamplico,</hi> 100 Miles diſtant from each other. And as there will be Occaſion for at leaſt Two Miſſionaries to be ſent amongſt them; ſo the Governour, who is now going over to that Colony, being a very worthy Gentleman, I dare promiſe will give the beſt Countenance and Encouragement which ſhall be in his Power.</p>
+            <p n="8">VIII. <hi>SO<g ref="char:V">Ʋ</g>TH-CAROLINA</hi> is the laſt Province that I ſhall now ſpeak of, on the Continent, a very thriving Colony, and ſo large, as to want at leaſt Three Miſſionaries, beſides one lately ſent there.</p>
+            <p n="9">IX. Over againſt <hi>South-Carolina,</hi> lie the
+<hi>Bermudas,</hi> or <hi>Summer-Iſlands,</hi> formerly reckoned very plentiful, as well as pleaſant and healthful; but are now known to be very poor and barren; which is commonly attributed to two Reaſons: <hi>First,</hi> The Fall of their <hi>Cedars,</hi> that ſhel<g ref="char:EOLhyphen"/>ter'd them from hurtful Winds; ſince which time, theſe Iſlands, for<g ref="char:EOLhyphen"/>merly ſo famous for their Oranges and Lemons, are now continually blaſted: And, <hi>Secondly,</hi> To a certain Worm or Ant, ſo much encreaſed upon them, as totally in ſome Places to devour their Corn. But from whatever Cauſes the Poverty of the Place proceeds, ſo it is, that tho' there are Eight Tribes or Pariſhes, with ſo many Churches, endow'd with ſome Shares of Land, which formerly might afford a mean Pro<g ref="char:EOLhyphen"/>viſion, now there is but one Miniſter upon the Place, and he but barely ſubſiſted; ſo that conſidering the Extent of that Knot of little Iſlands, Three Miſſionaries at leaſt will be wanting there.</p>
+            <p>It is no part of my Province to ſpeak to <hi>Virginia,</hi> it being under the Juriſdiction of a very worthy Perſon, Mr.
+<hi>Commiſſary Blaire;</hi> whoſe Abilities, as they fit him for great Deſigns, ſo his Induſtry has been for ſome Years exerciſed in doing uncommon Services to that Church.</p>
+            <p>But the Gratitude, which all that are well-affected to Chriſtianity do owe, more eſpecially the Clergy, and above all my ſelf, to that admirable Patron of Religion and Learning, Colonel <hi>Francis Nicholſon,</hi> the preſent Governour thereof, forbids me to paſs over in ſilence thoſe glorious Works which he is there carrying on, with ſuch unuſual Application; and which, when accompliſhed, muſt render his Memory ſweet to all ſucceeding Generations.</p>
+            <p>The Two great Deſigns, which he is now ſo intent upon, for the Good of that Church, (not to mention here what a Patron, or rather a Founder, he has been to it, in moſt of the other Provinces now named) are the Erecting of a <hi>College</hi> in <hi>Virginia,</hi> or rather an
+<hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſity;</hi> for which he has obtain'd a Charter from his Majeſty, with a Noble Endowment, and the Building of which he has already far advanced; and the Settling of the Church by Law, on ſuch a Foot, and Conſtitution, as will render that Clergy and Province mutually happy in one another.</p>
+            <p>Conſidering this Governour's late Heroick Actions in the Conqueſt of the moſt deſperate of Enemies, the Pirates, who were ſo infatua<g ref="char:EOLhyphen"/>ted, <pb n="9" facs="tcp:94880:6"/>as to approach his Province; and in whoſe Reduction, his own Perſonal Preſence and Valour had a ſhare, but that it was neceſſary to the Service of his Prince, of his Government, and of its Trade, almoſt to a Fault: It's hard to ſay, whether Arms or Letters have the greateſt Right to challenge him for their General. But when we conſider the extream diſproportion betwixt the Numbers of Perſons in Publick Poſt, who are ſtudious of the Good of God's Church, compar'd with ſuch, as are thought ſerviceable to the State in Arms, it ought to be the hearty Prayers of all the Friends of Religion and Learning, not only in his own Province, but all over that Continent, that whenever the Service of the Publick ſhall oblige him again to expoſe his Perſon to ſuch Dangers, that God would preſerve him; for ſhould he ſall, in all hu<g ref="char:EOLhyphen"/>mane Appearance, the Loſs would be irreparable.</p>
+            <p>Nor do I think my ſelf oblig'd to ſpeak here of
+<hi>New-England,</hi> where <hi>Independency</hi> ſeems to be the Religion of the Country. My Deſign is not to intermeddle, where Chriſtianity under any Form has ob<g ref="char:EOLhyphen"/>tained Poſſeſſion; but to repreſent rather the deplorable State of the <hi>Engliſh Colonies,</hi> where they have been in a manner abandoned to <hi>Atheiſm;</hi> or, which is much at one, to
+<hi>Quakeriſm,</hi> for want of a Clergy ſettled among them. And, I think, I have one remaining In<g ref="char:EOLhyphen"/>ſtance of ſuch Neglect in this kind, as if it provokes me to ſome warm Reflections upon our Nation, (for the Church, I know, wants Power and Riches to do much of it ſelf) I conceive the Occaſion will bear me out.</p>
+            <p n="10">X. And it is with reference to the laſt Colony in
+<hi>America,</hi> that I ſhall ſpeak any thing to at preſent, namely,
+<hi>NEWFO<g ref="char:V">Ʋ</g>ND-LAND,</hi> near whoſe Coaſt we were drove, in my Voyage to
+<hi>Mary-Land;</hi> and I could have been very glad, if, with the Safety of our Ship and Lives, we had been thrown into it, that I might have Perſonally ſeen the Con<g ref="char:EOLhyphen"/>dition of the Place and People. But this Curioſity was in a great meaſure ſatisfy'd, by the Account I received from the Maſter of a Ship on Board of us, who had made many Voyages there; and gave me this Account of the Iſland, ſo far as it is in the Poſſeſſion of the
+<hi>Engliſh:</hi> That there are Harbours in it belonging to us, 26; Families, 274; Inhabitants, as well Winter as Summer, on the Iſland, about
+1120; Workers, about 4200; Ships Crew, in the Fiſhing Seaſon, 3150; and Men in the Ships, ſent at the latter end of the Year to carry home the Fiſh,
+1200.</p>
+            <p>And now, is it poſſible to imagine, that from a Nation profeſſing Chriſtianity in its Purity, defecate of the leaſt Tincture of Droſs and Corruption; the ſole Tendency of whoſe Principles is, to inſpire all its Diſciples with the nobleſt Thoughts of God, with an ardent Zeal for his Honour and Glory, and with a boundleſs and unlimited Love to Mankind; a Love as <hi>Extenſive</hi> as the whole World, and as
+<hi>Intenſive</hi> as that we have to our ſelves? Is it credible, that in a Colony of ſo many Thouſand Souls, who are all of them Natives from
+<hi>England,</hi> from whence our Shipping do ſail to it, during many Months in the Year, and in whoſe Navigation our beſt Seamen are bred up; and where ſo many Hundred Families abide perpetually, ſome 20 Years, moſt the whole
+<pb n="10" facs="tcp:94880:7"/>courſe of their Lives; and from whoſe Trade ſuch Profit accrues to the Nation, as contributes next to the Woollen Manufacture, to turn the Balance of <hi>Europe</hi> in Commerce on our ſide? Can any one believe it, when he is told, that from ſuch a Nation ſo little Care has been taken, with reſpect to ſuch a Colony, that there neither was, nor is, any <hi>Preaching, Prayers,</hi> or <hi>Sacraments,</hi> or any Miniſterial and Divine Offices, performed on that Iſland; but that they ſhould be ſuffered to live as thoſe, who know no God in the World! Are <hi>Rome</hi> and <hi>Mecca,</hi> whoſe Sons are ſo apt to compaſs Sea and Land to gain Proſelytes to Super<g ref="char:EOLhyphen"/>ſtition and Folly, ſo regardleſs of their own People? And will it not then be more tolerable for that <hi>Tyre,</hi> and this
+<hi>Sydon,</hi> than for us, in the Day of Judgment? For if they had known the things which we do, the moſt rude and incultivated of thoſe Parts, which we poſſeſs, ſhould not have remained uninſtructed in the beſt Religion in the World.</p>
+            <p>The Truth of it is, this Indifference of ours in Propagating the Re<g ref="char:EOLhyphen"/>ligion which we profeſs to believe, in thoſe Parts, where, as well our Power does enable us, as our Duty oblige us, to take ſome Care there<g ref="char:EOLhyphen"/>of, is the Amazement of all whom I ever yet heard make ſerious Re<g ref="char:EOLhyphen"/>flections upon it.</p>
+            <p>But ſince, from what I have yet found, I am not ſanguine enough to hope for any publick Funds for the <hi>PROPAGATION OF CHRISTIAN KNOWLEDGE,</hi> either in this, or the other Colonies: And the only hopes is from the pious Clergy themſelves, and ſuch particular Perſons amongſt the devout Laity, whoſe Hearts are inflamed with a Love of God, and of thoſe Souls which he has pur<g ref="char:EOLhyphen"/>chaſed with his own Blood: I ſhall rather turn my ſelf to you, my moſt Reverend Fathers, and other Noble Patrons of Religion, giving you a general Eſtimate of the Number of
+<hi>Miſſionaries,</hi> which we hope to be ſupplied withall from your Paternal Care, and Pious Aſſiſtance: And as there will be need of at leaſt Two to be ſent for <hi>Newfound-Land;</hi> ſo, upon the whole, it appears, that there are at preſent wanting no leſs than Forty
+<hi>Proteſtant Miſſionaries</hi> to be ſent into all theſe Colonies.</p>
+            <p>And the Neceſſity that there ſhould be both ſo many, and thoſe ſin<g ref="char:EOLhyphen"/>gularly well qualify'd for the purpoſe, I am next to ſhew you. And that there ſhould be at leaſt that Number ſent into each of theſe Colonies, as I have now mentioned, appears from hence, That even then their Buſineſs will he extreamly wide; but chiefly for this Reaſon, that there is ſo great an Inclination to embrace Chriſtianity amongſt many
+<hi>Quakers,</hi> all over thoſe Parts where Mr. <hi>Keith</hi> has been, that it will be a fatal Neglect, if our Church ſhould not cloſe with that Providence, which offers ſo many Proſelytes into her Boſom. And the Plantations growing now into populous and powerful Provinces, with all Submiſſion, in my Opinion, ought not to be ſo neglected, as that it ſhould be indifferent to us, whether they be made Chriſtians, or abandoned to Infidelity.</p>
+            <p>Nor is the Neceſſity leſs that theſe
+<hi>Miſſionaries</hi> ſhould be ſingularly well qualify'd, than that they ſhould be at all ſent. And indeed, in or<g ref="char:EOLhyphen"/>der to make the better Choice, agreeable to what I have obſerved of the State, the Temper, and Conſtitution of the Country and People, is one great Reaſon that has perſwaded me ſo ſoon back. And the Perſons which alone can do good there, as I conceive, muſt,</p>
+            <pb n="11" facs="tcp:94880:7"/>
+            <p n="1">In the <hi>First</hi> place, be of ſuch nice Morals, as to
+<hi>abſtain from all Appea<g ref="char:EOLhyphen"/>rance of Evil;</hi> there being not ſuch a calumniating People in the World, as the <hi>Quakers</hi> are every where found to be. And it is the worſt Fault of the Plantations, that they give their Tongues too much liberty that way, eſpecially if they can find the leaſt Flaw.</p>
+            <p n="2">
+               <hi>Secondly,</hi> They muſt be Men of good
+<hi>Prudence,</hi> and an <hi>exact Conduct,</hi> or otherwiſe, they will unavoidably fall into Contempt, with a People ſo well vers'd in Buſineſs, as every the meaneſt Planter ſeems to be.</p>
+            <p n="3">
+               <hi>Thirdly,</hi> They ought to be well experienced in the
+<hi>Paſtoral Care,</hi> having a greater Variety, both of Sects and Humours, to deal with in thoſe Parts, than are at home; and therefore it would be well, if we could be provided with ſuch as have been Curates here for ſome time.</p>
+            <p n="4">
+               <hi>Fourthly,</hi> More eſpecially they ought to be of a
+<hi>true Miſſionary Spirit,</hi> having an ardent Zeal for God's Glory, and the Salvation of Mens Souls.</p>
+            <p n="5">
+               <hi>Fifthly,</hi> Of a very <hi>active Spirit,</hi> and conſequently, not ſo grown into Years, as to be uncapable of Labour and Fatigue, no more than very Young, upon which account they will be more liable to be deſpiſed.</p>
+            <p n="6">And, <hi>Laſtly,</hi> They ought to be good, ſubſtantial, well-ſtudied Di<g ref="char:EOLhyphen"/>vines, very ready in the Holy Scriptures, able with a ſound Judgment to explicate and prove the great Doctrines of Chriſtianity, to ſtate the Nature and Extent of the Chriſtian Duties, and with the moſt moving Conſiderations to enforce their Practice, and to defend the Truth againſt all its Adverſaries: To which purpoſe, it will be there<g ref="char:EOLhyphen"/>fore abſolutely requiſite to provide each of them with a
+<hi>Library</hi> of neceſſary Books, to be fix'd in thoſe Places to which they ſhall be ſent, for the Uſe of them, and their Succeſſors for ever: This to be a per<g ref="char:EOLhyphen"/>petual Encouragement to good and able Divines, always to go over, and to render them uſeful when they are there: A Deſign of whoſe
+<hi>
+                  <g ref="char:V">Ʋ</g>ſefulneſs,</hi> of whoſe <hi>Neceſſity,</hi> I am now ſo fully perſwaded, ſince I have been in, and know the Wants of thoſe Parts, that I am reſolved to have no hand in ſending, or taking over any one, the beſt Miſſionary, who ſhall not be ſo provided.</p>
+            <p>Well, but the great <hi>Quaere</hi> is, How we may be able to procure ſo great a Number of ſuch able <hi>Miſſionaries?</hi> How to maintain them? and how to furniſh them out with ſuch <hi>Libraries?</hi> In order to all which, I crave leave to offer theſe following Conſiderations.</p>
+            <p n="1">
+               <hi>First,</hi> That the Colonies now named, conſiſting chiefly of <hi>Quakers,</hi> or ſuch, as for want of the Goſpel being preached amongſt them, are in a manner of no Religion: They are in that reſpect to be conſidered as almoſt ſo many Heathen Nations. And it will ſeem unreaſonable, to expect that a People, before they are converted, and made to under<g ref="char:EOLhyphen"/>ſtand the Goodneſs and Advantages of true Religion, ſhould be in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uc'd to maintain its Miniſtry: And eſpecially in this Caſe of the <hi>Quakers,</hi> the Perſons chiefly to be proſelyted, who, above all other <pb n="12" facs="tcp:94880:8"/>Rites of the Church of Chriſt, have been deeply prejudiced againſt the Maintenance of the Clergy.</p>
+            <p n="2">
+               <hi>Secondly,</hi> That if the <hi>Miſſionaries,</hi> which ſhall be ſent into each of thoſe Colonies, ſhall be well choſen, and duly qualified, I am perſwaded they will find the Work of God to proſper ſo well in their Hands, that in Three Years time the People will, out of pure Devotion, ſubſcribe, or ſettle a plentiful Maintenance, both for them, and their Succeſſors. To ſupport me in which Conjecture, we have Two very eminent, and late Inſtances; the one in
+<hi>Penſylvania,</hi> th' other in <hi>Carolina.</hi> In the former of which, Mr. <hi>Clayton,</hi> who at his firſt going over, Three Years ago, and whilſt his Congregation was not above Sixty Perſons, had ſcarcely 50
+<abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum</hi> Maintenance; yet upon the Acceſſion of new Converts, to upwards of 700, (for ſo is that Church encreaſed in Three Years) has brought the Maintenance of the Miniſter of
+<hi>Phila<g ref="char:EOLhyphen"/>delphia</hi> to 150 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum.</hi> And in <hi>Carolina,</hi> Mr. <hi>Marſhall,</hi> through his excellent Preaching, and ſingular Conduct, ſo gain'd upon the Peo<g ref="char:EOLhyphen"/>ple, that from a poor Subſcription-Maintenance at firſt, they ſettled upon him and his Succeſſors, within Two Years after his being amongſt them, what amounts to 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum.</hi> And at his Death, the General Aſſembly of that Province were ſo kind to his Widow, as to preſent her with 200 <abbr>
+                  <hi>l.</hi>
+               </abbr> upon her Return home.</p>
+            <p n="3">
+               <hi>Thirdly,</hi> I conceive therefore, that in the Interim, and during the firſt Three Years, it will be abſolutely neceſſary, that theſe <hi>Miſſionaries</hi> ſhould be ſubſiſted from hence; and it ſhall be my utmoſt Care in that time to have them ſo provided of Glebes, and the ſame ſo ſtock'd, as that they may thenceforward live comfortably upon the Emoluments of their own Places.</p>
+            <p n="4">
+               <hi>Fourthly,</hi> The Method by which I would humbly propoſe to have theſe <hi>Miſſionaries,</hi> which I deſire, both well choſen, and ſupported from home, in their Service for the firſt Three Years, is as follows.</p>
+            <p n="1">1. As to the Choice, That every Biſhop be pleaſed to pitch upon ſome proper Perſon within his own Dioceſs, ſuch as his Lordſhip ſhall judge bed qualified, as aforeſaid, for the Miſſion: And then,</p>
+            <p n="2">2. As to his Support, That his Lordſhip having countenanced the following Propoſal in ſuch meaſure, as (conſidering the many other like Calls upon thoſe in his Station, more than upon any others) his Lord<g ref="char:EOLhyphen"/>ſhip ſhall think fit; he be pleaſed to recommend it to the dignify'd, and other the moſt conſiderable Clergy within his Dioceſs; and they, to the well diſpoſed Laity within their reſpective Pariſhes, to ſubſcribe what may maintain one Miſſionary at leaſt, to be ſent from ſuch Dioceſs.</p>
+            <p n="3">3. That where there happens to be any Perſons, as of noted Zeal for God's Glory, and the Salvation of Mens Souls; ſo of Ability withall to maintain of themſelves a Miſſionary; eſpecially, if ſuch as have not Chil<g ref="char:EOLhyphen"/>dren to inherit their Eſtates, and conſequently, whom Providence ſeems to have deſign'd to be publick Benefactors to Mankind; That a more particular Application be made to ſuch, as thoſe, who have reaſon to be
+<pb n="9" facs="tcp:94880:8"/>glad of an Opportunity to entitle themſelves ſo expresly, as this will, to the exalted Degrees of Glory, promiſed to thoſe <hi>wiſe Perſons who turn many to Righteouſneſs,</hi> Dan. 12.3.</p>
+            <p n="4">4. That the Summ ſubſcribed for each
+<hi>Miſſionary</hi> be 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per An<g ref="char:EOLhyphen"/>num</hi> for Three years. And as leſs will not be ſufficient to encourage a Perſon of Learning and Worth to undertake the Miſſion; ſo it will not ſuffice to ſubſiſt even a private Miniſter in thoſe Parts, where eve<g ref="char:EOLhyphen"/>ry thing is very dear, which muſt be bought for Money, and not bar<g ref="char:EOLhyphen"/>tered for by the Product of the Country; which no Clergy-man will be Maſter of, till he can have a Glebe, and ſhall have cultivated his Plantation.</p>
+            <p n="5">5. That the Subſcriptions be paid in to the
+<hi>Arch-Deacons</hi> at their <hi>Eaſter-Viſitation,</hi> and be forthwith returned by them to the Hands of the Biſhop of the Dioceſs; or to ſuch Perſon, or Perſons in <hi>London,</hi> as his Lordſhip ſhall appoint to receive it, and ſo pay it to the Order of the <hi>Miſſionary</hi> ſent by ſuch Dioceſs.</p>
+            <p n="6">6. That beſides the 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per Annum,</hi> allow'd each <hi>Miſſionary</hi> for his Subſiſtence, 20
+<abbr>
+                  <hi>l.</hi>
+               </abbr> a-year be appropriated towards buying a
+<hi>Li<g ref="char:EOLhyphen"/>brary</hi> of neceſſary, and uſeful Books, both for himſelf, and his Succeſ<g ref="char:EOLhyphen"/>ſors in the Town, or other Place wherein he ſhall be ſetled.</p>
+            <p n="7">Laſtly, That the firſt Payment of the 50
+<abbr>
+                  <hi>l.</hi>
+               </abbr> and 20 <abbr>
+                  <hi>l.</hi>
+               </abbr> be advanced at his firſt going off (which I could wiſh might be before <hi>Chriſtmas</hi> next) that ſo being ſufficiently furniſhed with all Neceſſaries, he may not appear to come, as an indigent Perſon into the Place where he ſhall be appointed, and as one that is to have Free Quarters upon thoſe he is to proſelyte. The <hi>Quakers</hi> being very prying into the Condi<g ref="char:EOLhyphen"/>dition of thoſe who come over; whom if they find poor, they pro<g ref="char:EOLhyphen"/>claim Hirelings, and to come meerly for Bread; but if otherwiſe, they have been found at a loſs what to ſay againſt them. And to be well provided at firſt, will ſucceed the better to the advantage both of the <hi>Miſſionary</hi> himſelf, and the Church: To the ſupport and conti<g ref="char:EOLhyphen"/>nuance of which, he will undoubtedly lay a good Foundation, who being happy in his Conduct, ſhall come firſt.</p>
+            <p>And indeed, my Lords, could we but have ſuch Men at firſt, as by their real Worth might be able to gain the Eſteem and Affections of thoſe People, I do not in the leaſt doubt from what I have already found, but that in my next <hi>Viſitation</hi> I could obtain large <hi>Tracts of Glebes,</hi> and good Houſes, built by the reſpective Pariſhes in
+<hi>Mary-Land,</hi> and the Proſelyte-Churches in the other Colonies; ſo as both thoſe, who ſhall now go over, will themſelves in a few years be in a comfortable Condition, and their Succeſſors after them in a happy Settlement.</p>
+            <p>And as neither the Clergy's Condition can be comfortable, nor can it be properly call'd a Settlement, till they ſhall be in Houſes, and on
+<pb n="10" facs="tcp:94880:9"/>Glebes of their own; ſo now is the time to endeavour both, or it will be too late hereafter to think of obtaining either. For as yet Land may be taken up, or had upon eaſie Terms; but ſhould the Plantations continue to increaſe, as they have done of late, within Seven Years Land will not be purchaſed at treble the value, as now.</p>
+            <p>For my own part, I take this to be ſo happy a Juncture to lay the Foundation of laſting Good to the Church of God in thoſe Provinces, that though after the Expence already of above a Thouſand Pounds in its Service, and though it is likely to be ſtill at my own Charge, when I go again, yet I ſhall not make the leaſt Difficulty in accom<g ref="char:EOLhyphen"/>panying your Lordſhips <hi>Miſſionaries,</hi> which from your reſpective Dio<g ref="char:EOLhyphen"/>ceſſes you ſhall pleaſe to ſend into thoſe Parts. And being therefore ſo little intereſted my ſelf in the <hi>Miſſion,</hi> I hope I may with a better Countenance, through your Lordſhip's Patronage, preſume to offer the following <hi>Propoſals</hi> to the very Reverend Dignitaries, and weal<g ref="char:EOLhyphen"/>their Clergy, and other well-diſpoſed Perſons of the Church, for a ſmall Subſcription from each of them towards the Maintenance of thoſe <hi>Miſſionaries,</hi> their Brethren, whom your Lordſhips ſhall pleaſe to ſend.</p>
+         </div>
+         <div type="proposals">
+            <pb n="15" facs="tcp:94880:9"/>
+            <head>PROPOSALS for the Propagation of the Chriſtian Religion in the ſeveral Provinces, on the Continent of <hi>North-America.</hi>
+            </head>
+            <p>WHEREAS it has pleaſed God of late to ſtir up the Hearts of many People in the <hi>American</hi> Plantations, who ſeem'd formerly to have forgot Religion, now to be very ſolicitous, and earneſt for Inſtruction, ſo as of themſelves to call for thoſe Helps, which in Duty they ought to have teen prevented in, by us, from the beginning: And whereas, to our ſhame, we muſt own, that no Nation has been ſo guilty of this neglect as ours: The Papiſts, of all Countries, having been moſt careful to ſupport their Superſtitions wherever they have planted: The <hi>Dutch</hi> with great Care allowing an Honourable Maintenance, with all other Encouragements, for Miniſters in their Factories and Plantations: The <hi>Swedes,</hi> the
+<hi>Danes,</hi> and other ſmall Colonies, being ſeldom or never deficient in this particular; and we of the <hi>Engliſh</hi> Nation only being wanting in this Point: And laſtly, Whereas, though it be true, that ſome of our moſt conſiderable Plantations have ſet out Pariſhes, and Allowances for Miniſters, yet it is not ſo in all; and where ſome Proviſion is made, it is as yet far ſhort of being ſufficient to maintain a Miniſter: And there is a total Neglect of informing the poor Natives. Out of all theſe Conſiderations, we do not think a more Charitable Work can be carried on, than as much as in us lyes, to contribute towards the Redreſs of theſe great Failures: And therefore do ſubcribe, to that purpoſe, the ſeveral Summs to our Names annex'd.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
